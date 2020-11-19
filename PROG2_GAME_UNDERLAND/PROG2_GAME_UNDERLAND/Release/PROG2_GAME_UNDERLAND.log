@@ -1,0 +1,13 @@
+﻿  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  MainMenuState.cpp
+  Player.cpp
+  State.cpp
+  main.cpp
+  Generating code
+  17 of 576 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PROG2_GAME_UNDERLAND.vcxproj -> C:\Users\Nico\Desktop\UTN Game\PROG2_GAME_UNDERLAND\Release\PROG2_GAME_UNDERLAND.exe
